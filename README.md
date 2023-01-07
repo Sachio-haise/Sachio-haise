@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/haise-sasaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haise-sasaki" height="30" width="40" /></a>
-<a href="https://fb.com/陽翔 (haruto)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="陽翔 (haruto)" height="30" width="40" /></a>
+<a href="https://fb.com/TheLegendaryOtakuSenpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="陽翔 (haruto)" height="30" width="40" /></a>
 <a href="https://instagram.com/sachiohaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachiohaise" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aung kaung myat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aung kaung myat" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Gp9TaXrJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Gp9TaXrJ" height="30" width="40" /></a>
