@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next.js, Python, Django, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-ten-lemon.vercel.app](https://personal-portfolio-ten-lemon.vercel.app)
+- 👨‍💻 All of my projects are available at [https://akm-web-dev.vercel.app](https://akm-web-dev.vercel.app)
 
 - 📝 I regularly write articles on [https://www.facebook.com/TheLegendaryOtakuSenpai/](https://www.facebook.com/TheLegendaryOtakuSenpai/)
 
