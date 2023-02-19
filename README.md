@@ -1,5 +1,5 @@
 <p align="center">  
-  <img width="100%" height="auto" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
+  <img width="100%" height="auto" src="https://usagif.com/cdn-cgi/mirage/c1228b93d0a1d0643f25986f9f399a5709784de478237a4ae727d70165d2bc5c/1280/https://usagif.com/wp-content/uploads/gifs/fire-17.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Aung Kaung Myat! (Haruto Kageuchi)</h1>
 <h3 align="center">A Full-Stack Web Developer From Myanmar.</h3>
